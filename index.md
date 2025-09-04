@@ -1,5 +1,6 @@
-# Hi, I'm <Your Name>
-Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
+# Hi, I'm <"Dylan Wang">
+Welcome Ms. Kim or other to my student profile for the 2025-2026 ICS4U school year. This is where I will be posting most of my projects, reflections, and assets. If you have any questions or concerns, you may contact me. 
+
 
 ## Highlights
 - 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
@@ -7,7 +8,8 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+My name is Dylan, I'm a student enrolled in the ICS4U high school course. I have next to no experience when it comes to coding, but I have advanced level 3D graphics experience with modeling through various applications. 
+I am taking ICS4U computer science to ensure 
 
 ---
 *Update this page by editing `index.md` in your repository.*
