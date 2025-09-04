@@ -1,4 +1,5 @@
-# Hi, I'm <"Dylan Wang">
+# Hi, I'm Dylan Wang,
+
 Welcome Ms. Kim or other to my student profile for the 2025-2026 ICS4U school year. This is where I will be posting most of my projects, reflections, and assets. If you have any questions or concerns, you may contact me. 
 
 
